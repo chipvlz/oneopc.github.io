@@ -1,0 +1,1 @@
+Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible

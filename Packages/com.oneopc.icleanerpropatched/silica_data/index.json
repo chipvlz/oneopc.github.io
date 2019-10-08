@@ -1,0 +1,53 @@
+{
+    "bundle_id": "com.oneopc.icleanerpropatched",
+    "name": "Patch iCleaner Pro",
+    "version": "7.7.5",
+    "tagline": "iCleaner Pro v7.7.5 patched",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "maintainer": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "firmware (>= 12.0), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: purpose::extension, role::enduser, compatible::ios12"],
+
+    "tint": "#265AB4",
+    "works_min": "12.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "7.7.5",
+            "changes": "更新7.7.5破解注册补丁"
+        },
+        {
+            "version": "7.7.2",
+            "changes": "更新7.7.2破解注册补丁"
+        }
+
+    ]
+}

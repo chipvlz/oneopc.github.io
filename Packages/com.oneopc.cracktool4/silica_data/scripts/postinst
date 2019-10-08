@@ -1,0 +1,5 @@
+#!/bin/sh
+chown 0:0 /Applications/CrackTool4.app/CrackTool4
+chmod 6755 /Applications/CrackTool4.app/CrackTool4
+su mobile -c uicache
+exit 0

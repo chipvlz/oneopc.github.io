@@ -1,0 +1,53 @@
+{
+    "bundle_id": "com.oneopc.alipay.antforest",
+    "name": "Alipay_AntForest",
+    "version": "0.4.1",
+    "tagline": "iOS版支付宝，一键收取蚂蚁森林全部好友能量，一键帮好友收取能量，定时收取能量,为好友浇水",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "King",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "King",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate",
+    "conflicts": "om.shawushe.main.Alipay-AntForest",
+    "replaces": "om.shawushe.main.Alipay-AntForest",
+    "provides": "om.shawushe.main.Alipay-AntForest",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#00AAEE",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "https://github.com/luoyanbei/Alipay_AntForest/blob/master/README.md",
+    "changelog": [
+        {
+            "version": "0.4.1",
+            "changes": "修改定时间隔为30S，提高收取频率."
+        },
+        {
+            "version": "0.1.1-29",
+            "changes": "beta版本."
+        }
+        
+    ]
+}

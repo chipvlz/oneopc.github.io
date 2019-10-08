@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.LocalIAPStore",
+    "name": "LocalIAPStore",
+    "version": "1.4-1",
+    "tagline": "Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "anondev",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "anondev",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "firmware (>= 5.1.1), mobilesubstrate, preferenceloader",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#9585E7",
+    "works_min": "10.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.4-1",
+            "changes": "正式版本."
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.datameter",
+    "name": "DataMeter 精简版",
+    "version": "1.4-3",
+    "tagline": "DataMeter for IOS12 NetSpeed display.",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "Minuit",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "Minuit",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "firmware (>= 7.0), mobilesubstrate (>=0.9.5000), preferenceloader (>=2.2.2)",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#40809A",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.4-3",
+            "changes": "精简版本(解决1号结算数据导致的注销问题)."
+        }
+    ]
+}

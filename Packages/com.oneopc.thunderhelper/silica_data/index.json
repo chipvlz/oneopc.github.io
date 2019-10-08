@@ -1,0 +1,53 @@
+{
+    "bundle_id": "com.oneopc.thunderhelper",
+    "name": "Thunder Helper",
+    "version": "1.4.0",
+    "tagline": "迅雷助手 - 完美支持 V 5.20 ~ 5.32",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "iBreak",
+        "email": "ibreak2019@qq.com"
+    },
+    "maintainer": {
+        "name": "iBreak",
+        "email": "ibreak2019@qq.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate, preferenceloader",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#2A70F2",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.4.0",
+            "changes": "新增屏蔽封号，优化A12兼容问题，优化通道稳定性并修复了其它小问题。"
+        },
+        {
+            "version": "1.3.2",
+            "changes": "迅雷助手 - 完美支持 V 5.20 ~ 5.32"
+        }
+        
+    ]
+}

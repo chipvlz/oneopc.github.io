@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.cercubecrack",
+    "name": "Cercube Remove Ads",
+    "version": "0.0.2",
+    "tagline": "去除Ccercube for YouTube下载底部横幅广告",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "fahadaljuwausri &‪ faisal_nz‬",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "fahadaljuwausri &‪ faisal_nz‬",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#E53A28",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "0.0.2",
+            "changes": "去除Ccercube for YouTube下载底部横幅广告"
+        }
+    ]
+}

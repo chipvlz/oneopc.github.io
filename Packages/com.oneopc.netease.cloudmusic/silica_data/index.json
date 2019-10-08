@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.netease.cloudmusic",
+    "name": "NeteaseMusic Vip Hack",
+    "version": "0.0.1-29+debug",
+    "tagline": "网易云 vip破解",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "zyh",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "zyh",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate",
+    "conflicts": "com.netease.cloudmusic",
+    "replaces": "com.netease.cloudmusic",
+    "provides": "com.netease.cloudmusic",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#ea2000",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "0.0.1-29+debug",
+            "changes": "beta版本."
+        }
+    ]
+}

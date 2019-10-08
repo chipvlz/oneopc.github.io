@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.filza64bit",
+    "name": "Filza File Manager 64-bit k",
+    "version": "3.7.0-18",
+    "tagline": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "TIGI Software",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "TIGI Software",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Utilities",
+    "pre_dependencies": "",
+    "dependencies": "zip, unzip, gzip, unrar, p7zip",
+    "conflicts": "com.tigisoftware.filza",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#0BADD4",
+    "works_min": "7.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "3.7.0-18",
+            "changes": "正式版本(已破解注册版)."
+        }
+    ]
+}

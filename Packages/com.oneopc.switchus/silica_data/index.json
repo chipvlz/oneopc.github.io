@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.switchus",
+    "name": "Switchus",
+    "version": "1.3",
+    "tagline": "Customize the App Switcher like never before !",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "SynnyG",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "SynnyG",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate, firmware (>= 11.0), applist",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#3FB4FB",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.3",
+            "changes": "Better default preferences handling / showing; Switched to a non deprecated restring method in settings; Code cleanup; Removed debug code; Updated for arm64e compatibility (A12(x) devices)"
+        }
+    ]
+}

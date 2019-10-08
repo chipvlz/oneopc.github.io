@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.locationchangerx",
+    "name": "LocationFaker(8~12)",
+    "version": "2.2",
+    "tagline": "change your location using a map",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "Cunstuck",
+        "email": "cunstuck@gmail.com"
+    },
+    "maintainer": {
+        "name": "Cunstuck",
+        "email": "cunstuck@gmail.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Utilities",
+    "pre_dependencies": "",
+    "dependencies": "",
+    "conflicts": "org.thebigboss.locationchangerx",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12"],
+
+    "tint": "#72C039",
+    "works_min": "8.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "2.2",
+            "changes": "适配ios12.4（已破解，安装即为注册版）"
+        }
+    ]
+}

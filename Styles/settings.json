@@ -1,0 +1,11 @@
+{
+    "name": "Oneopc Repo",
+    "description": "Oneopc's Cydia Repo",
+    "tint": "#2da9f3",
+    "cname": "oneopc.github.io/repo",
+    "maintainer": {
+        "name": "Oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "automatic_git": "true"
+}

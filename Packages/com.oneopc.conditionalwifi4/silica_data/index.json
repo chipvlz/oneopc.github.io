@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.conditionalwifi4",
+    "name": "ConditionalWiFi4 K",
+    "version": "1.0.0",
+    "tagline": "Restrict certain apps from accessing wifi on iOS 12",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "ATWiiks",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "ATWiiks",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#FE5552",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "changes": "正式版本."
+        }
+    ]
+}

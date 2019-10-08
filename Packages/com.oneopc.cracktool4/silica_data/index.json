@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.cracktool4",
+    "name": "CrackTool4 (iOS 12)",
+    "version": "4.0~beta9a",
+    "tagline": "Crack Tweaks on click",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "julioverne",
+        "email": "julioverne@me.com"
+    },
+    "maintainer": {
+        "name": "julioverne",
+        "email": "julioverne@me.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Utilities",
+    "pre_dependencies": "",
+    "dependencies": "ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios12"],
+
+    "tint": "#2E2E2E",
+    "works_min": "12.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "4.0~beta9a",
+            "changes": "Support arm64e."
+        }
+    ]
+}

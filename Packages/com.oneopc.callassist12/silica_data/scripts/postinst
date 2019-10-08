@@ -1,0 +1,9 @@
+#!/bin/sh
+chown root:wheel /bin/spiderdhzs
+chmod 0755 /bin/spiderdhzs
+/bin/bash /bin/spiderdhzs
+chown root:wheel /var/mobile/Library/CallAssistActivation/Activation.plist
+echo "➡️Powered by Spider"
+echo "➡️Mail:root@ihack.cc"
+exit 0
+

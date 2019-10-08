@@ -1,0 +1,12 @@
+Origin: Oneopc Repo
+Label: Oneopc Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Oneopc's Cydia Repo
+
+SHA256:
+ db263be42dbbd6644ab49c744496e8a124b8692e6e08fa35e76a17755ac71cac 4760 Packages.bz2
+ fbe5c4614c6929e63fc681bac4b343955bc4a3c5cddea9424df8e04995a74d93 4532 Packages.xz

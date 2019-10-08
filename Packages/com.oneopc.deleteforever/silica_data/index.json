@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.deleteforever",
+    "name": "DeleteForever",
+    "version": "0.0.1-59",
+    "tagline": "'Delete Permanently' option for Photos.",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "creatix",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "creatix",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "firmware (>= 7.0), mobilesubstrate, preferenceloader",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#E74C3C",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "0.0.1-59",
+            "changes": "正式版本."
+        }
+    ]
+}

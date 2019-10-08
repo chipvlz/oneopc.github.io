@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.cocoatop64",
+    "name": "CocoaTop 64-bit",
+    "version": "2.0.2-1+debug",
+    "tagline": "Process Viewer for IOS GUI (64-bit)",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "Domo",
+        "email": "domo@rambler.ru"
+    },
+    "maintainer": {
+        "name": "Domo",
+        "email": "domo@rambler.ru"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Utilities",
+    "pre_dependencies": "",
+    "dependencies": "",
+    "conflicts": "ru.domo.cocoatop",
+    "replaces": "ru.domo.cocoatop",
+    "provides": "ru.domo.cocoatop",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#44E541",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "https://github.com/D0m0/CocoaTop",
+    "changelog": [
+        {
+            "version": "2.0.2-1+debug",
+            "changes": "CocoaTop for iOS 12(64-bit) beta."
+        }
+    ]
+}

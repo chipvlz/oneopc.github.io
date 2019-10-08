@@ -1,0 +1,61 @@
+{
+    "bundle_id": "com.oneopc.betterccxi",
+    "name": "BetterCCXI",
+    "version": "1.6.0",
+    "tagline": "Enhance your control center on iOS 11 and iOS 12",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "ATWiiks",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "ATWiiks",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate, com.opa334.ccsupport, preferenceloader",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#4F9EF7",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.6.0",
+            "changes": "Made Artwork BG for the compact style look more vibrant."
+        },
+        {
+            "version": "1.5.0",
+            "changes": "Added 12.2+ Support for the Media Module."
+        },
+        {
+            "version": "1.4.10",
+            "changes": "添加适配A12."
+        },
+        {
+            "version": "1.4.8",
+            "changes": "添加适配ios12.1.2控制中心天气模块."
+        }
+        
+    ]
+}

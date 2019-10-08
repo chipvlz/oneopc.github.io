@@ -1,0 +1,9 @@
+#!/bin/sh
+killall -9 iCleaner
+mv /var/mobile/iCleaner /Applications/iCleaner.app/
+cd /Applications/iCleaner.app/
+chmod 06755 iCleaner
+killall -9 iCleaner
+mkdir -p //var/mobile/Library/iCleaner/;chown mobile:mobile //var/mobile/Library/iCleaner/;chmod 755 //var/mobile/Library/iCleaner/;
+killall -9 iCleaner
+exit 0

@@ -1,0 +1,1 @@
+Restrict certain apps from access Wi-Fi on iOS 12 (Note this does not make them currently fallback to cellular)This could be useful if your home Wi-Fi has a data-cap or you don't want facebook connecting to anything when you specifically haven't enabled it for a specific span of time.

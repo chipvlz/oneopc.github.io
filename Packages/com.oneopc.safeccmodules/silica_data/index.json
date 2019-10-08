@@ -1,0 +1,52 @@
+{
+    "bundle_id": "com.oneopc.safeccmodules",
+    "name": "CCModules",
+    "version": "1.4-3M",
+    "tagline": "More control center modules for iOS 11/12",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "jailbreak365",
+        "email": ""
+    },
+    "maintainer": {
+            "name": "jailbreak365",
+            "email": ""
+        },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Addons (ControlCenter)",
+    "pre_dependencies": "",
+    "dependencies": "mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: purpose::extension, compatible::ios11, compatible::ios12"],
+
+    "tint": "#9585E7",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "1.4-3M",
+            "changes": "New in v1.4.3:Added SBReload, LDRestart, Sileo, and Zebra modules."
+        },
+        {
+            "version": "1.4-2M",
+            "changes": "arm64e/A12 compatibility, CCModules should now also be future proofed; Low Power Mode module for iPads; Minor module fixes"
+        }
+    ]
+}

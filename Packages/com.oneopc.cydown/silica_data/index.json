@@ -1,0 +1,52 @@
+{
+    "bundle_id": "com.oneopc.cydown",
+    "name": "CyDown",
+    "version": "7.0.0",
+    "tagline": "Cydia Download Manager & Extra Features!",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "julioverne",
+        "email": "julioverne@me.com"
+    },
+    "maintainer": {
+        "name": "julioverne",
+        "email": "julioverne@me.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#BC7D65",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "7.0.0",
+            "changes": "Option for show downloaded .deb in Filza; Option for Spoof Device, iOS when download Packages; Feature for Clear Cydia Cached Sources Files (Packages, Release); Support arm64e; Fix Possible Error on somes Repo won't downloading package correct."
+        },
+        {
+            "version": "6.9.7",
+            "changes": "正式版本."
+        }
+    ]
+}

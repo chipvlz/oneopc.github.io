@@ -1,0 +1,1 @@
+"Delete Permanently" option for Photos.
