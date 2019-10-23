@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.oneopc.clearbadges",
+    "name": "ClearBadges",
+    "version": "0.1.1",
+    "tagline": "Onclick Icon ClearBadges.",
+    "homepage": "https://oneopc.github.io/repo",
+    "developer": {
+        "name": "oneopc",
+        "email": ""
+    },
+    "maintainer": {
+        "name": "oneopc",
+        "email": ""
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/oneopc"
+        },
+        {
+            "name": "Website",
+            "url": "https://oneopc.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": "oneopc",
+        "email": "ycwuecw@gmail.com"
+    },
+    "section": "Tweaks",
+    "pre_dependencies": "",
+    "dependencies": "firmware (>= 7.0), mobilesubstrate (>=0.9.5000)",
+    "conflicts": "",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12"],
+
+    "tint": "#ff0000",
+    "works_min": "11.0",
+    "works_max": "12.4",
+    "featured": "true",
+    "source": "",
+    "changelog": [
+        {
+            "version": "0.1.1",
+            "changes": " 测试版本."
+        }
+    ]
+}
