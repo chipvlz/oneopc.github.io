@@ -1,8 +1,8 @@
 {
     "bundle_id": "com.oneopc.icleanerpropatched",
     "name": "Patch iCleaner Pro",
-    "version": "7.7.5",
-    "tagline": "iCleaner Pro v7.7.5 patched",
+    "version": "7.8.0",
+    "tagline": "iCleaner Pro v7.8.0 patched, tested iPhone 6s 12.4",
     "homepage": "https://oneopc.github.io/repo",
     "developer": {
         "name": "oneopc",
@@ -41,8 +41,8 @@
     "source": "",
     "changelog": [
         {
-            "version": "7.7.5",
-            "changes": "更新7.7.5破解注册补丁"
+            "version": "7.8.0",
+            "changes": "更新7.8.0破解注册补丁"
         },
         {
             "version": "7.7.2",

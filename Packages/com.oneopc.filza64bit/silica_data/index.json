@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.oneopc.filza64bit",
     "name": "Filza File Manager 64-bit k",
-    "version": "3.7.0-18",
+    "version": "3.7.3-16",
     "tagline": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
     "homepage": "https://oneopc.github.io/repo",
     "developer": {
@@ -41,7 +41,7 @@
     "source": "",
     "changelog": [
         {
-            "version": "3.7.0-18",
+            "version": "3.7.3-16",
             "changes": "正式版本(已破解注册版)."
         }
     ]

@@ -1,7 +1,7 @@
 {
     "bundle_id": "com.oneopc.cracktool4",
     "name": "CrackTool4 (iOS 12)",
-    "version": "4.0~beta9a",
+    "version": "4.0~beta9c",
     "tagline": "Crack Tweaks on click",
     "homepage": "https://oneopc.github.io/repo",
     "developer": {
@@ -41,7 +41,7 @@
     "source": "",
     "changelog": [
         {
-            "version": "4.0~beta9a",
+            "version": "4.0~beta9c",
             "changes": "Support arm64e."
         }
     ]
